@@ -1,7 +1,7 @@
 -  Hi, I’m @San491
 -  How to reach me -: Email: sanandochanda@yahoo.com
                       Linkedin: www.linkedin.com/in/sanandochanda
-                      Discord: San#8741
+                      Discord: san491
                         
 
 <!---
