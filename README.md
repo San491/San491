@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @San491
-- 👀 I’m interested in Web Development!
-- 🌱 I’m currently learning HTML/CSS and Javascript
-- 📫 How to reach me -: Email: sanandochanda@yahoo.com
-                        Linkedin: www.linkedin.com/in/sanandochanda
-                        Discord: San#8741
+-  Hi, I’m @San491
+-  How to reach me -: Email: sanandochanda@yahoo.com
+                      Linkedin: www.linkedin.com/in/sanandochanda
+                      Discord: San#8741
                         
 
 <!---
